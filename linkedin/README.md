@@ -20,20 +20,12 @@ We'll discuss how to fill out each field step by step.
 
 **Learn more about how to complete your LinkedIn Intro Block:**
 
-[How do you complete your LinkedIn header?](how-do-you-complete-your-linkedin-header.md)
+Full Stack Web Developer | JavaScript, React, Ruby, RoR, Java
 
 
 ## Fill in the About section
 
-You will now add different sections to your profile by selecting them from the Add profile section menu, which displays a list of core, recommended and additional sections.
-
-![images/L20.png](images/L20.png)
-
 According to most students, the "About Me" is the hardest (and most intimidating) section of the LinkedIn profile. The good news, however, is that you've already written most of it, and now you can simply copy/paste it into LinkedIn.
-
-**Learn more about the About section:**
-
-[What makes a compelling About section?](what-makes-a-compelling-about.md)
 
 **Apply what you've learned**
 
@@ -61,10 +53,6 @@ Looking for a developer? Send me an e-mail at jahongir.yusupov94@mail.ru.<br/>
 
 The Featured section is one of the first blocks that a hiring manager will see when they click into your profile: it's large, image-heavy, and located near the top of your LinkedIn. In other words, it's a space where you can immediately grab a recruiter's attention, and you should be using it to its fullest effect. This section appears as one of the Recommended sections in the Add profile section menu. Let's talk about what to add.
 
-**Learn more about how to create an eye-catching Featured section:**
-
-[What makes a strong Featured section?](what-makes-a-strong-featured-section.md)
-
 **Apply what you've learned**
 
 1. Take 5 minutes to select 3-5 pieces of media (projects, articles, etc.) that you'd like to add to the Featured section.
@@ -90,10 +78,6 @@ You're more than halfway done with your LinkedIn profile, and we'll continue our
 
 **Learn how to highlight knowledge and professional expertise in the Education section:**
 
-[What makes a strong Education section?](what-makes-a-strong-education-section.md)
-
-**Apply what you've learned**
-
 1. Take 5 minutes to copy/paste your education from your resume into LinkedIn.
 2. Take an additional 10 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
 3. Optional: if you intend on including education experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
@@ -104,12 +88,9 @@ The Skills section is important because all of the skills you add to your profil
 
 **Learn more about which skills to add to your LinkedIn:**
 
-[Preparing your LinkedIn for both keyword searches and hiring managers with the Skills section](preparing-your-linkedin-for-both-keyword-searches-and-hiring-managers-with-the-skills-section.md)
-
-**Apply what you've learned**
-
 1. Take 5 minutes to copy/paste your skills from your resume into LinkedIn.
 2. If relevant, take an additional 5 minutes to add technical or professional skills to your LinkedIn that you did not already include on your resume.
+3. Add at least 18 skills
 
 ## Highlight your strengths with recommendations
 
