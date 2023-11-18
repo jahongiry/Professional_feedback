@@ -16,18 +16,12 @@ This might sound intimidating, but we have good news: **you've already written n
 
 The LinkedIn profile header comprises everything in that first block of your LinkedIn profile, from your photo to your contact info. It also encompasses **almost all of the new content you'll be writing**; nearly everything else will be copy-pasted directly from your resume.
 
-We'll discuss how to fill out each field step by step.
-
-**Learn more about how to complete your LinkedIn Intro Block:**
-
-Full Stack Web Developer | JavaScript, React, Ruby, RoR, Java
+Intro block sample: Full Stack Web Developer | JavaScript, React, Ruby, RoR, Java
 
 
 ## Fill in the About section
 
 According to most students, the "About Me" is the hardest (and most intimidating) section of the LinkedIn profile. The good news, however, is that you've already written most of it, and now you can simply copy/paste it into LinkedIn.
-
-**Apply what you've learned**
 
 1. Sample:<br/> Full Stack developer with a passion for clean code and accessible design.<br/>
 Solution-oriented, with a bright vision for delivering the highest quality software.<br/>
@@ -107,7 +101,7 @@ Recommendations are a great way of providing context to recruiters and hiring ma
 
 ## Add your strongest projects
 
-It's well-worth making time to do add your strongest projects, since hiring managers look closely at this section, and keyword-heavy descriptions allow LinkedIn's matching algorithm to rank you more strongly as a match for jobs.
+It's well worth making time to do add your strongest projects since hiring managers look closely at this section, and keyword-heavy descriptions allow LinkedIn's matching algorithm to rank you more strongly as a match for jobs.
 
 Fortunately, all you need to do to complete this section is copy/paste directly from your GitHub.
 
